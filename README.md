@@ -1,1 +1,2 @@
-My first readme
+Project name: Zero_day
+School: Holberton
